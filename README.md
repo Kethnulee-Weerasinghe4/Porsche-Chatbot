@@ -1,6 +1,6 @@
 # Porsche AI Chatbot
 
-A frontend-focused AI chatbot designed for Porsche enthusiasts. Built with **React**, **JavaScript**, and AI-powered APIs, it delivers contextual conversation and car-specific insights, showcasing polished UI/UX and asynchronous data handling.
+A frontend-focused AI chatbot designed for Porsche enthusiasts. Built with React, JavaScript, and AI-powered APIs, it delivers contextual conversation and car-specific insights, showcasing polished UI/UX and asynchronous data handling.
 
 **Live Website:** [https://kethnulee-weerasinghe.github.io/Porsche-AI-ChatBot/](https://kethnulee-weerasinghe.github.io/Porsche-AI-ChatBot/)
 

@@ -10,6 +10,8 @@ A frontend-focused AI chatbot designed for Porsche enthusiasts. Built with React
 
 A conversational AI chatbot themed around Porsche intended as a demonstration / prototype.
 
+## Features
+
 - AI-powered chatbot interface  
 - Automates responses to frequently asked questions  
 - Porsche-themed styling and brand aesthetics  

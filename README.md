@@ -15,14 +15,14 @@ A frontend-focused AI chatbot designed for Porsche enthusiasts. Built with React
 
 ## Technologies
 
-# Frontend
+**Frontend**
 
 - HTML
 - CSS
 - JavaScript
 - React
 
-# API Integration
+**API Integration**
 
 - OpenAI API
 - Fetch API

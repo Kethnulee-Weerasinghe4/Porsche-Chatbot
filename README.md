@@ -1,37 +1,37 @@
 # Porsche AI Chatbot
 
-A frontend-focused AI chatbot designed for Porsche enthusiasts. Built with React, JavaScript, and AI-powered APIs, it delivers contextual conversation and car-specific insights, showcasing polished UI/UX and asynchronous data handling.
+A frontend-only AI chatbot concept designed to answer Porsche-related questions through an interactive, brand-inspired user interface.
 
 **Live Website:** [https://kethnulee-weerasinghe4.github.io/Porsche-AI-Chatbot/](https://kethnulee-weerasinghe4.github.io/Porsche-AI-Chatbot/)
 
 ![Website Preview](./preview.png)
 
-## Features
+## Overview
 
-- AI-powered chatbot interface  
-- Automates responses to frequently asked questions  
-- Porsche-themed styling and brand aesthetics  
-- Seamless, responsive user experience with chat overlay
+Porsche AI Chatbot is a frontend mockup project built using HTML, CSS, and JavaScript, showcasing a Porsche-themed website with an integrated AI-style chat interface. The chatbot simulates conversational responses for Porsche-specific queries and is intended as a UI/UX and concept demonstration, not a production AI system.
 
-## Technologies
+This project focuses on design fidelity, interaction flow, and component behavior without relying on a backend or real AI services.
 
-**Frontend**
+## Key Features
 
-- HTML
-- CSS
-- JavaScript
-- React
+- Porsche-inspired UI and branding  
+- Interactive AI-style chatbot interface  
+- Keyword-based, predefined chatbot responses  
+- Animated background video integration  
+- Clean, modular frontend structure  
 
-**API Integration**
+## Tech Stack
 
-- OpenAI API
-- Fetch API
+- **Frontend:** HTML, CSS, JavaScript  
+- **Architecture:** Frontend-only (no backend, no real AI API)
 
-## Running Locally
+## Getting Started
 
-To view or edit the project locally:
+### Installation
 
 ```bash
-git clone https://github.com/Kethnulee-Weerasinghe4/Porsche-AI-Chatbot.git
+git clone (https://github.com/Kethnulee-Weerasinghe4/Porsche-AI-Chatbot)
 cd Porsche-AI-Chatbot
-```
+
+
+

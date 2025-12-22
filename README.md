@@ -1,14 +1,14 @@
 # Porsche AI Chatbot
 
-A frontend-only AI chatbot concept designed to answer Porsche-related questions through an interactive, brand-inspired user interface.
+A frontend-only chatbot concept designed to answer Porsche-related questions through an interactive, brand-inspired user interface.
 
-**Live Website:** [https://kethnulee-weerasinghe4.github.io/Porsche-AI-Chatbot/](https://kethnulee-weerasinghe4.github.io/Porsche-AI-Chatbot/)
+**Live Website:** [https://kethnulee-weerasinghe4.github.io/Porsche-Chatbot/](https://kethnulee-weerasinghe4.github.io/Porsche-Chatbot/)
 
 ![Website Preview](./preview.png)
 
 ## Overview
 
-Porsche AI Chatbot is a frontend mockup project built using HTML, CSS, and JavaScript, showcasing a Porsche-themed website with an integrated AI-style chat interface. The chatbot simulates conversational responses for Porsche-specific queries and is intended as a UI/UX and concept demonstration, not a production AI system.
+Porsche Chatbot is a frontend mockup project built using HTML, CSS, and JavaScript, showcasing a Porsche-themed website with an integrated AI-style chat interface. The chatbot simulates conversational responses for Porsche-specific queries and is intended as a UI/UX and concept demonstration, not a production AI system.
 
 This project focuses on design fidelity, interaction flow, and component behavior without relying on a backend or real AI services.
 
@@ -30,8 +30,8 @@ This project focuses on design fidelity, interaction flow, and component behavio
 ### Installation
 
 ```bash
-git clone (https://github.com/Kethnulee-Weerasinghe4/Porsche-AI-Chatbot)
-cd Porsche-AI-Chatbot
+git clone (https://github.com/Kethnulee-Weerasinghe4/Porsche-Chatbot)
+cd Porsche-Chatbot
 
 
 

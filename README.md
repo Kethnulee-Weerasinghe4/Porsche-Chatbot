@@ -30,7 +30,7 @@ This project focuses on design fidelity, interaction flow, and component behavio
 ### Installation
 
 ```bash
-git clone (https://github.com/Kethnulee-Weerasinghe4/Porsche-Chatbot)
+git clone https://github.com/Kethnulee-Weerasinghe4/Porsche-Chatbot
 cd Porsche-Chatbot
 
 

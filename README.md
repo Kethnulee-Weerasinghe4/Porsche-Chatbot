@@ -8,7 +8,7 @@ A frontend-only chatbot concept designed to answer Porsche-related questions thr
 
 ## Overview
 
-Porsche Chatbot is a frontend mockup project built using HTML, CSS, and JavaScript, showcasing a Porsche-themed website with an integrated AI-style chat interface. The chatbot simulates conversational responses for Porsche-specific queries and is intended as a UI/UX and concept demonstration, not a production AI system.
+**Porsche Chatbot** is a frontend mockup project built using HTML, CSS, and JavaScript, showcasing a Porsche-themed website with an integrated AI-style chat interface. The chatbot simulates conversational responses for Porsche-specific queries and is intended as a UI/UX and concept demonstration, not a production AI system.
 
 This project focuses on design fidelity, interaction flow, and component behavior without relying on a backend or real AI services.
 
